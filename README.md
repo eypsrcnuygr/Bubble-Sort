@@ -28,24 +28,23 @@
 
 3. Copy and paste the following code into the Terminal:
 ```
-git clone https://github.com/eypsrcnuygr/HTML-Capstone.git
+git clone https://github.com/eypsrcnuygr/Bubble-Sort.git
 ```
 or with SSH:
 
 ```
-git clone git@github.com:eypsrcnuygr/HTML-Capstone.git
+git clone git@github.com:eypsrcnuygr/Bubble-Sort.git
 ```
 
 4. Hit enter.
 
-5. Once the repository has been cloned, open index.html in a browser of your choosing. From there, you may also navigate to the "Search" and "Event" pages.
+5. Once the repository has been cloned, navigate through the bin folder and run ``` ruby main.rb```.
 
 6. Enjoy
 
 ## Prerequisities
 
-- A computer, a smartphone, or another similar device.
-- Access to the internet.
+To get this project up and running, you must already have ruby installed on your computer.
 
 ## Authors
 
@@ -60,7 +59,7 @@ git clone git@github.com:eypsrcnuygr/HTML-Capstone.git
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/eypsrcnuygr/HTML-Capstone/issues).
+Feel free to check the [issues page](https://github.com/eypsrcnuygr/Bubble-Sort/issues).
 
 ## Show your support
 
@@ -68,10 +67,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Thanks are owed to the designer, [Mathew Njuguna](https://www.behance.net/gallery/25563385/PatashuleKE), for his design.
-- Logo has been made from [Small Seo Tools](https://smallseotools.com/)'s site.
-- The index page's pictures are taken from [unsplash](https://unsplash.com/).
-- Cem Yılmaz is an popular comedian in Turkey. Check him.
+* This Project was part of an assignment available on The Odin Project.
+* Our thanks to Microverse and all our peers and colleagues there.
 
 ## 📝 License
 
