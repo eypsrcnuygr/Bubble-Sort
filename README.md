@@ -38,7 +38,7 @@ git clone git@github.com:eypsrcnuygr/Bubble-Sort.git
 
 4. Hit enter.
 
-5. Once the repository has been cloned, open index.html in a browser of your choosing. From there, you may also navigate to the "Search" and "Event" pages.
+5. Once the repository has been cloned, navigate through the bin folder and run ``` ruby main.rb```.
 
 6. Enjoy
 
